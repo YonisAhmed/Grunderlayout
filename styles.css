@@ -1,0 +1,10 @@
+body {
+  background-color: indigo;
+  font-family: verdana, sans-serif;
+  font-size: 1.4rem;
+}
+
+p {
+  color: magenta;
+  font-size: 1.2rem;
+}
